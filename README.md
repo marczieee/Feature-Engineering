@@ -10,10 +10,10 @@
 ## 👥 Group Members
 | Name | Role |
 |------|------|
-| [Member 1] | Data Processing Lead |
-| [Member 2] | DevOps Engineer |
-| [Member 3] | Tester |
-| [Member 4] | Documenter / Presenter |
+| [Gelera, Marc Eldrian] | Data Processing Lead |
+| [Pacheco, Haroliyen] | DevOps Engineer |
+| [Bolina, Renz Andrae] | Tester |
+| [Aganan, Akira Yuki] | Documenter / Presenter |
 
 ---
 
