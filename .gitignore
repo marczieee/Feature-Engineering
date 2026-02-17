@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Keep input/output folders but ignore large files
+# NOTE: output/ is intentionally tracked so CI results are visible in GitHub
+input/*.csv
+!input/.gitkeep
