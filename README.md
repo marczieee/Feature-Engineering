@@ -156,8 +156,8 @@ The CI pipeline runs on:
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/marczieee/Feature-Engineering-Group-6.git
-cd Feature-Engineering-Group-6
+git clone https://github.com/marczieee/Feature-Engineering.git
+cd Feature-Engineering
 ```
 
 ### 2. Install dependencies
