@@ -1,7 +1,6 @@
 # Feature Engineering Pipeline - Group 6
 ### DevOps Midterm | Automated CSV Data Processing using CI Pipeline
 
-![CI Pipeline](https://github.com/marczieee/Feature-Engineering-Group-6/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![pytest](https://img.shields.io/badge/tested%20with-pytest-yellow)
 
