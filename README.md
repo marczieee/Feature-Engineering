@@ -7,12 +7,12 @@
 ---
 
 ## 👥 Group Members
-| Name | Role |
-|------|------|
-| [Gelera, Marc Eldrian] | Data Processing Lead |
-| [Pacheco, Haroliyen] | DevOps Engineer |
-| [Bolina, Renz Andrae] | Tester |
-| [Aganan, Akira Yuki] | Documenter / Presenter |
+| Name |
+|------|
+| [Gelera, Marc Eldrian] 
+| [Pacheco, Haroliyen] | 
+| [Bolina, Renz Andrae] 
+| [Aganan, Akira Yuki] 
 
 ---
 
